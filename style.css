@@ -1,0 +1,92 @@
+
+.one{
+    width:80px;
+    margin: 1px
+    ;
+    font-size: 20px;
+    padding: 16px;
+    background-color: rgb(240, 233, 233);
+    border: 1px white solid;
+    border-radius: 45px;
+}
+
+
+
+.input{
+    width: 333px;
+    height: 40px;
+    background-color: gainsboro;
+    font-size: large;
+    border-radius: 45px;
+    margin: 1px;
+
+}
+.main{
+    border: 1px solid rgb(214, 213, 213)  ;
+    width: 340px;
+    background-color: rgb(214, 213, 213);
+    margin: 0 auto;
+    margin-top: 130px;
+    padding: 50px;
+    border-radius: 45px;
+    
+    
+}
+.three{
+    background-color: rgb(240, 233, 233);
+    width: 80px;
+    margin: 1px;
+    border: 1px white solid;
+    font-size: 20px;
+    padding: 16px;
+    border-radius: 45px;
+}
+.four{
+   
+    width: 80px;
+    margin: 1px;
+    padding: 16px;
+    font-size: 20px;
+    background-color: rgb(240, 233, 233);
+    border: 1px white solid;
+    border-radius: 45px;
+}
+.five{
+  
+    width: 80px;
+    margin: 1px;
+    padding: 16px;
+    font-size: 20px;
+    
+    background-color: rgb(240, 233, 233);
+    border: 1px white solid;
+    border-radius: 45px;
+}
+    
+    
+
+
+  .ten{
+    width:250px;
+    margin: 1px
+    ;
+    font-size: 20px;
+    padding: 16px;
+    background-color: rgb(240, 233, 233);
+    border: 1px white solid;
+    border-radius: 45px;
+  }  
+
+.fourt{
+    width:80px;
+    margin: 1px
+    ;
+    font-size: 20px;
+    padding: 16px;
+    background-color: rgb(240, 233, 233);
+    border: 1px white solid;
+    border-radius: 45px;
+}
+button:hover{
+    border: 1px bisque;
+}
